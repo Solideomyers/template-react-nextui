@@ -37,7 +37,12 @@ Esta es una plantilla que utiliza React con TypeScript, Vite como bundler, NextU
   - Configuración predefinida de TailwindCSS.
   - Implementación inicial de NextUI abstracta en el archivo `NextuiProvider.tsx`.
 
-## Uso
+## Uso número `1`
+
+1. Puedes usar la opción `Use this template`.
+2. Luego elige la opción de tu preferencia, bien puedes crear un nuevo repositorio en base a esta plantilla `Create a new repository`.
+
+## Uso número `2`
 
 1. Clona este repositorio.
 2. Instala las dependencias utilizando `npm install`.
